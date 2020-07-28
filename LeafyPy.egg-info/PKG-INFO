@@ -1,18 +1,19 @@
 Metadata-Version: 1.1
 Name: LeafyPy
-Version: 0.0.21
+Version: 0.0.25
 Summary: LeafyPy
 Home-page: UNKNOWN
 Author: Michael Grigoryan
 Author-email: michael.grigoryan25@gmail.com
 License: MIT
-Description: LeafyPi
+Description: LeafyPy
         A Python library for general tasks
         
         Change log
+        ==========
         
-        0.0.21 (7/28/2020)
-        -Updated the README
+        0.0.25 (7/28/2020)
+        - Added camera functionality
 Platform: UNKNOWN
 Classifier: Development Status :: 5 - Production/Stable
 Classifier: Intended Audience :: Education
