@@ -1,6 +1,6 @@
 <img src="./img/logo.png"
      alt="Logo"
-     style="float: left; margin-right: 10px"
+     style="float: left; margin-right: 30%"
      width=20%/>
 # LeafyPy - A lightweight Python Library
 LeafyPy is a lightweight python library.
