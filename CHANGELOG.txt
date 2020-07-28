@@ -1,6 +1,5 @@
 Change log
+==========
 
-0.0.21 (7/28/2020)
--Updated the README
-0.0.21(7/28/2020)
--Updated the functional
+0.0.25 (7/28/2020)
+- Added camera functionality
