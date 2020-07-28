@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='LeafyPy',
-  version='0.0.25',
+  version='0.0.26',
   description='LeafyPy',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
