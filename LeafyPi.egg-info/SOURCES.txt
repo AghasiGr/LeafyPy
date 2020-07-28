@@ -1,8 +1,0 @@
-MANIFEST.in
-README.txt
-setup.py
-LeafyPi.egg-info/PKG-INFO
-LeafyPi.egg-info/SOURCES.txt
-LeafyPi.egg-info/dependency_links.txt
-LeafyPi.egg-info/top_level.txt
-python/__init__.py

@@ -1,2 +1,2 @@
-MyPi
-This is a python library created by me
+LeafyPi
+A Python library for general tasks

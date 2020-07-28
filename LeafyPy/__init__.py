@@ -9,3 +9,6 @@ def div_numbers(num1, num2):
 
 def mult_numbers(num1, num2):
     return num1 * num2
+
+def p(input):
+    print(input)

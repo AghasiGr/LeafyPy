@@ -1,1 +1,3 @@
-import LeafyPi as LP
+import LeafyPy as LP
+
+LP.p("Hello")

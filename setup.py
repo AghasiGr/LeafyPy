@@ -9,9 +9,9 @@ classifiers = [
 ]
  
 setup(
-  name='LeafyPi',
-  version='0.0.1',
-  description='LeafyPi',
+  name='LeafyPy',
+  version='0.0.21',
+  description='LeafyPy',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
   author='Michael Grigoryan',
