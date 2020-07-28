@@ -28,7 +28,7 @@ def cNum(num1, num2):
     return num1 % num2
 
 def rNum(num1, num2):
-    randn(num1, num2)
+    randint(num1, num2)
     
 
 
