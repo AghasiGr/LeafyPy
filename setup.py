@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='LeafyPy',
-  version='0.0.21',
+  version='0.0.25',
   description='LeafyPy',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
@@ -20,5 +20,5 @@ setup(
   classifiers=classifiers,
   keywords='', 
   packages=find_packages(),
-  install_requires=[''] 
+  install_requires=['opencv-python'] 
 )

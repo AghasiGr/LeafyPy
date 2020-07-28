@@ -2,3 +2,5 @@ Change log
 
 0.0.21 (7/28/2020)
 -Updated the README
+0.0.21(7/28/2020)
+-Updated the functional
