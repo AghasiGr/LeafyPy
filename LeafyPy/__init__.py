@@ -1,4 +1,5 @@
 import math
+import random
 import cv2
 import numpy
 
@@ -25,6 +26,11 @@ def rtNum(num1, num2):
 
 def cNum(num1, num2):
     return num1 % num2
+
+def rNum(num1, num2):
+    randn(num1, num2)
+    
+
 
 def cam(device):
     cap = cv2.VideoCapture(device)
