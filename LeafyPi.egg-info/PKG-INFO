@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: LeafyPi
+Version: 0.0.1
+Summary: LeafyPi
+Home-page: UNKNOWN
+Author: Michael Grigoryan
+Author-email: michael.grigoryan25@gmail.com
+License: MIT
+Description: MyPi
+        This is a python library created by me
+        
+        Change log
+        
+        0.0.1 (7/28/2020)
+        -First Release
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
